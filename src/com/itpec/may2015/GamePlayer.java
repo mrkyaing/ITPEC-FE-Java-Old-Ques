@@ -1,6 +1,7 @@
 package com.itpec.may2015;
 
 public class GamePlayer extends Player {
+	
 	private int choice;
 
 	public GamePlayer(String name) {
